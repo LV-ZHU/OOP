@@ -1,0 +1,12 @@
+﻿  cmd_console_tools.cpp
+D:\oop-bighomework\BigHW\common\cmd_console_tools.cpp(230,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  cmd_hdc_tools.cpp
+  1234567-测试-hdc_cartoon.cpp
+  1234567-测试-hdc_math.cpp
+  hdc_cartoon.cpp
+  hdc_math.cpp
+  test_draw_peppapig.cpp
+  test_hdc.cpp
+D:\oop-bighomework\BigHW\90-02-b1\test_hdc.cpp(68,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  90-02-b1.vcxproj -> D:\oop-bighomework\BigHW\x64\Debug\90-02-b1.exe
